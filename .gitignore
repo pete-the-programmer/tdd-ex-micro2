@@ -1,3 +1,5 @@
 _site/
 .ionide/
 .envrc
+__pycache__/
+*.pyc
